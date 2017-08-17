@@ -1,0 +1,56 @@
+### Bonus: a new monster called "Exam" is created ###
+
+
+zhexian@ubuntu:~/Documents/AI_GA_student_version$ python genetic_algorithm.py 
+Initializing Game...
+Siren created
+Tornado created
+Pirate created
+Shark created
+OceanGhost created
+Sea Monster created
+Battleship created
+Devil created
+Exam created
+====Generation 0 average fitness: 7====
+====Generation 1 average fitness: 8====
+====Generation 2 average fitness: 10====
+====Generation 3 average fitness: 13====
+====Generation 4 average fitness: 14====
+====Generation 5 average fitness: 18====
+====Generation 6 average fitness: 17====
+====Generation 7 average fitness: 17====
+====Generation 8 average fitness: 19====
+====Generation 9 average fitness: 19====
+Fittest player fitness value: 78
+Attributes are Strength:2 Agility:3 Intelligence:3 Charm:2 Vitality:2 Stamina:2 Spirit:2 
+
+      |\_/|        ****************************    (\_/)
+     / @ @ \       *                          *   (='.'=)
+    ( > o < )      *           EXAM           *   (")_(")
+     '>>x<<'       *                          * 
+     /  O  \       **************************** 
+	
+Student13 survived for : 8 days out of 50 days, and then killed by a Exam
+
+                                     |__
+                                     |\/
+                                     ---
+                                     / | [
+                              !      | |||
+                            _/|     _/|-++'
+                        +  +--|    |--|--|_ |-
+                     { /|__|  |/\__|  |--- |||__/
+                    +---------------___[}-_===_.'____                 /
+                ____`-' ||___-{]_| _[}-  |     |_[___\==--            \/   _
+ __..._____--==/___]_|__|_____________________________[___\==--____,------' .7
+|                                                                     BB-61/
+ \_________________________________________________________________________|
+
+
+	
+Student13 survived for : 32 days out of 50 days, and then killed by a Battleship
+VICTORY!
+Player survived for : 50 days.
+VICTORY!
+Player survived for : 50 days.

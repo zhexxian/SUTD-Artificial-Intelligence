@@ -1,0 +1,5 @@
+Searcher               USA(Smith Center, Cambridge)                   
+breadth_first_search   (<85869/85967/238186/2500>, 18.335000038146973)
+bidirectional_search   (<85869/85967/238186/2500>, 8.375)             
+uniform_cost_search    (<85565/85567/237373/2500>, 40.23300004005432) 
+astar_search           (<22155/22157/63150/2500>, 21.531999826431274) 

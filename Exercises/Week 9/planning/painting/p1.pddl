@@ -1,0 +1,5 @@
+(define (problem p1)
+    (:domain painting)
+  (:objects A B C RED GREEN)
+  (:init (color-of a red) (color-of b red) (color-of c green) (on a b) (clear a) (clear c) (on-table b) (on-table c) (type-box a) (type-box b) (type-box c) (type-color red) (type-color green) (arm-empty))
+  (:goal (and (color-of b green) (on a b) (arm-empty))))
